@@ -7,6 +7,7 @@ public class Test01 {
 		System.out.println("Second message from local master");
 		System.out.println("third message from local master");
 		System.out.println("conflict at local master");
+		System.out.println("second conflict from locak master");
 
 	}
 
